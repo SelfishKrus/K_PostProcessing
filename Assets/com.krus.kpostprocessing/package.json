@@ -1,0 +1,23 @@
+{
+  "name": "com.krus.kpostprocessing",
+  "version": "1.0.0",
+  "description": "Suck my balls",
+  "displayName": "KPostProcessing",
+  "unity": "2022.2",
+  "author": {
+    "name": "SelfishKrus",
+    "email": "selfishkrus@qq.com",
+    "url": "https://github.com/SelfishKrus/"
+  },
+  "changelogUrl": "",
+  "dependencies": {},
+  "documentationUrl": "",
+  "hideInEditor": false,
+  "keywords": [
+    "KrusHLSL"
+  ],
+  "license": "",
+  "licensesUrl": "",
+  "samples": [],
+  "unityRelease": "16f1"
+}
